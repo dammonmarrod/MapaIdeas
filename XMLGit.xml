@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaginaWebGit>
+	<introduccionGit>
+		<Titulo>Git que es y para que sirve</Titulo>
+		<url>https://www.youtube.com/watch?v=-q7221V6Elk</url>
+		<enlaceDiv>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/-q7221V6Elk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</enlaceDiv>
+		<ideas>https://ebweb.es/como-insertar-videos-responsives-en-una-web/</ideas>
+
+		<Titulo>Readme github tutorial paso a paso | conecta spotify, últimos posts</Titulo>
+		<url>https://www.youtube.com/watch?v=P9Dp8-i6bww</url>
+		<enlaceDiv>
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/P9Dp8-i6bww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</enlaceDiv>
+	</introduccionGit>
+
+	<comandosGit>
+	</comandosGit>
+
+	<recursosUtilesGit>
+	</recursosUtilesGit>
+
+	<trabajarEquipoGit>
+	</trabajarEquipoGit>
+</PaginaWebGit>
