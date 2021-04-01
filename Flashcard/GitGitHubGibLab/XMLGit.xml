@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PaginaWebGit>
+	<IntroduccionGit>
+		<Titulos> 
+			<Titulo>
+				<Nombre>Git que es y para que sirve</Nombre>
+				<EnlaceDiv>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/-q7221V6Elk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</EnlaceDiv>
+				<Url>https://www.youtube.com/watch?v=-q7221V6Elk</Url>
+				<Notas>https://ebweb.es/como-insertar-videos-responsives-en-una-web/</Notas>
+				<Preguntas>
+					<Pregunta>¿Qué es git?</Pregunta>
+					<Pregunta>¿Cúal es la diferencia entre git y github?</Pregunta>
+					<Pregunta>¿Qué partes tiene?</Pregunta>
+					<Pregunta>¿Qué es el Remote Repository?</Pregunta>
+					<Pregunta>¿Qué es la Staging Area?</Pregunta>
+					<Pregunta>¿Qué es el Local Repository?</Pregunta>
+					<Pregunta>¿Cómo clonar un repositorio?</Pregunta>
+				</Preguntas>
+				<Respuestas>
+					<Respuesta>Es el controlador de versiones moderno, más usado en el mundo. Es gratuito (open Source).</Respuesta>
+					<Respuesta>Git es un controlador de versiones; mientras que github es un servidor donde se aloja el repositorio remoto.</Respuesta>
+					<Respuesta>Remote Repository, Working Directory,Staging Area, Local Repository</Respuesta>
+					<Respuesta>Es el repositorio donde esta almacenado el proyecto</Respuesta>
+					<Respuesta>Es un archivo o index que almacena información sobre los cambios realizados y que queremos que vayan a nuestro repositorio.</Respuesta>
+					<Respuesta>Es la copia del repositorio en remoto. Solo el que la tiene, dispone de acceso a ella</Respuesta>
+					<Respuesta>Los datos de Remote Repository, son enviados a la zona del Working directory y al Local repository</Respuesta>
+				</Respuestas>
+			</Titulo>
+		</Titulos>
+	</IntroduccionGit>
+<!-- 
+	<comandosGit>
+	</comandosGit>
+
+	<recursosUtilesGit>
+	</recursosUtilesGit>
+
+	<trabajarEquipoGit>
+	</trabajarEquipoGit>
+
+-->
+</PaginaWebGit>
