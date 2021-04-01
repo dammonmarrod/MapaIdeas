@@ -1,0 +1,320 @@
+<!-- Falta a partir de 30Marzo-->
+<antiGoogle>
+		<informacion>Implemental analytics sin Google</informacion>
+		<titulo>¿Quieres implementar analytics en tu sitio sin comprometer GDPR ni la privacidad de tus usuarios? Echa un vistazo a @PlausibleHQ que tienen un modelo asequible y muy amigable</titulo>
+		<url>https://twitter.com/ant_laguna/status/1374636911676043275?s=20</url>
+		<url></url>
+	<derechoAlOlvido>
+		<informacion>Derecho al olvido</informacion>
+		<titulo>Te explicamos en esta ficha práctica cómo puedes eliminar tus datos personales que aparecen en los resultados de un buscador y ejercer tu #DerechoAlOlvido. #ProtegeTusDatos Más info: </titulo>
+		<url>https://t.co/e7G4RBi1wI</url>
+		<url>https://t.co/V2Ee9Ii4Tb </url>
+		<url>https://twitter.com/AEPD_es/status/1376067028193210369?s=20</url>
+	</derechoAlOlvido>
+	<noMasGoogle>
+		<informacion></informacion>
+		<titulo>Privacy-friendly alternatives to Google that don't track you </titulo>
+		<url>https://twitter.com/onoffre/status/1376206027654324225?s=20</url>
+		<url>https://t.co/sHaLOsVkRH </url>
+		<url></url>
+		<url></url>
+	</noMasGoogle>
+</antiGoogle>
+
+<apis>
+	<herramientasApis>
+		<informacion>Herramientas de api</informacion>
+		<titulo>Echa un vistazo a este listado de herramientas #opensource muy útiles que te ayudarán a solucionar problemas en el desarrollo de #APIs.</titulo>
+		<url>https://t.co/RSZhDyXyOw</url>
+		<url>https://t.co/ssw2ivcrbg</url>
+		<url>https://twitter.com/APIAddicts/status/1375108817621516293?s=20</url>
+		<url></url>
+	</herramientasApis>
+	<funcionamientoApis>
+		<informacion>Aquí tienes una lista elaborada por el equipo de BBVA</informacion>
+		<titulo>¿Sabrías decir detrás de cuántas de nuestras rutinas diarias se esconde una API? ¡Desde luego están en todos lados! 6 cosas que no imaginarías que esconde una API en su funcionamiento.</titulo>
+		<url>https://t.co/aY2v3h0Rvv </url>
+		<url>https://t.co/zM8sf4Agk9 </url>
+		<url>https://twitter.com/APIAddicts/status/1376550277386473477?s=20</url>
+		<url></url>
+	</funcionamientoApis>
+</apis>
+
+
+<basesDatos>
+	<sql>
+		<informacion>Inyecciones de SQL</informacion>
+		<titulo>Buenas noches, me gustaría compartir de nuevo mis escritos de inyecciones sql, en donde se habla desde lo básico, después algo mas avanzado, y pasando por las inyecciones automatizadas. Por último esta una recopilación de payloads para inyecciones XSS y SQL</titulo>
+		<url> https://twitter.com/_Y000_/status/1359369804684136456?s=20</url>
+		<url></url>
+	</sql>
+</basesDatos>
+
+
+<blockchain>
+		<informacion>Entrevista sobre Blockhain</informacion>
+		<titulo>Cuando el #Blockchain se cruzó en mi camino, lo reconocí como una #tecnología que podría crear un cambio a gran escala y resolver problemas mundiales"</titulo>
+		<url>https://t.co/QkgtvhggLy</url>
+		<url>https://twitter.com/cibervoluntario/status/1375049941958197254?s=20</url>
+</blockchain>
+
+
+
+<datos>
+		<informacion>Datos de un satelite</informacion>
+		<titulo>Pues ya tengo mi pequeña estación terrestre @tiny__GS para recibir señales de satélites. Lo he montado esta tarde en un rato, gracias al gran trabajo de @G4lile0 @dev_4m1g0 @gmag12 IMPRESIONANTE!!</titulo>
+		<url> https://t.co/op6kBx2XdF </url>
+		<url>https://twitter.com/akirasan/status/1374485672208199688?s=20</url>
+	<chatbots>
+		<informacion></informacion>
+		<titulo>Historia de los '#chatbots': de Alan Turing a la innovación en la atención al cliente vía @Invertia </titulo>
+		<url>https://t.co/mNS2hW5QfA</url>
+		<url>https://twitter.com/uji_uadti/status/1375341871996751872?s=20</url>
+	</chatbots>
+</datos>
+
+
+
+<Diseño>
+
+		<informacion>Diseño</informacion>
+		<titulo>Un vistazo a este tweet te puede ayudar bastante</titulo>
+		<url>https://t.co/hcpwV3hpy5</url>
+		<url>https://twitter.com/NavisCode/status/1374721383272448005?s=20</url>
+		
+		<informacion>Informacion sobre como utilizar github en Diseño</informacion>
+		<titulo>Proceso de trabajo con diseñadora usando github</titulo>
+		<url>https://t.co/saI6kji8Na</url>
+		<url>https://twitter.com/martatorredev/status/1375048305579847680?s=20</url>
+	<estilosUI>
+		<informacion></informacion>
+		<titulo>Aprende cómo gestionar colores, temas, estilos en apps ➕PLUS: cómo dejar de sufrir cuando UI cambia los colores de la app😱 Bernat Borras @lepetitbernat, Android Dev, te cuenta esto y más en su charla para @malaga_mobile  </titulo>
+		<url> https://t.co/R36r310TJ3</url>
+		<url>https://twitter.com/AdevintaEng/status/1376549714464804876?s=20</url>
+		<url></url>
+		<url></url>
+	</estilosUI>
+	<iconos>
+		<informacion></informacion>
+		<titulo>Uno de los sitios que más me gusta para encontrar iconos es. Simple de usar, iconos de alta calidad, personalizables y gratuitos:</titulo>
+		<url>glyphs.fyi</url>
+		<url>https://t.co/Ra9B9rQpCc </url>
+		<url>https://t.co/NZY2ApuHUP </url>
+		<url>https://twitter.com/NavisCode/status/1376051676944158720?s=20</url>
+	</iconos>
+	<recursosCSS>
+		<informacion>Librerías Css</informacion>
+		<titulo>Recopilacion de generadores de CSS</titulo>
+		<url>https://t.co/9WzCWdYFIW</url>
+		<url>https://twitter.com/dinaelurdaneta/status/1374654695118139394?s=20</url>
+	</recursosCSS>
+
+</Diseño>
+
+
+
+
+<inclusion>
+	<influencer>
+		<informacion></informacion>
+		<titulo>#ICT #TIC • #a11y • #Inclusion • #Diversity • #HSP #PAS • IT Assistant at TothomWeb • PUXL's A11y Catalonia & Barcelona Ambassador • SolidJobs's member </titulo>
+		<url>https://twitter.com/Mel__Caballero?s=20</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</influencer>
+	<pdfAccesibles>
+		<informacion></informacion>
+		<titulo> Recuerda que los documentos PDF disponibles en tu web también deben ser #accesibles</titulo>
+		<url>https://t.co/doMHUIIaZ9 </url>
+		<url>https://t.co/XX846CE0M4 </url>
+		<url>https://twitter.com/OBSAE/status/1373982799770836992?s=20</url>
+		<url></url>
+	</pdfAccesibles>
+	<textoAlternativo>
+		<informacion></informacion>
+		<titulo>En Accesibilidad en la Web: Cómo escribir un buen texto alternativo  </titulo>
+		<url>https://t.co/VbI9uSHWdN </url>
+		<url>https://twitter.com/metsuke/status/1376431037606137862?s=20</url>
+		<url></url>
+		<url></url>
+	</textoAlternativo>
+</inclusion>
+
+<java>
+		<informacion></informacion>
+		<titulo>Mira el video @vilojona de @RedHatEMEA hablando sobre Kubernetes Operators en Java! No tiene desperdicio!</titulo>
+		<url>https://t.co/3LJ2zjBQsJ</url>
+		<url>https://t.co/3iP3XNeKne</url>
+		<url>https://twitter.com/alexdeveng/status/1375818510832701442?s=20</url>
+</java>
+
+
+<javaScript>
+		<informacion>Casting de tipos</informacion>
+		<titulo>Javascript es un mundo extraño y maravilloso a la vez </titulo>
+		<url>https://t.co/wAbdwX4vXv </url>
+		<url>https://twitter.com/antoomartini/status/1375082055093121025?s=20</url>
+		<url></url>
+		<url></url>
+	<bucles>
+		<informacion></informacion>
+		<titulo>Un repaso por los principales ciclos o loops para ejecutar código varias veces. </titulo>
+		<url> https://t.co/p0BY7tbukQ </url>
+		<url>https://twitter.com/carlosazaustre/status/1376540215389609991?s=20</url>
+		<url></url>
+		<url></url>
+	</bucles>
+	<libros>
+		<informacion></informacion>
+		<titulo>@_axtone terninando el libro de @sw_crafters, bastante interesante y muy didactico, te lo recomiendo sobretodo si se quiere repasar conceptos de buenas practicas dentro de js y en programación en general.</titulo>
+		<url>softwarecrafters.io Clean Code, SOLID y Testing aplicado a JS</url>
+		<url>https://t.co/XCIPvEAx4G </url>
+		<url>https://twitter.com/Randy_Terros/status/1376397767388639234?s=20</url>
+		<url></url>
+	</libros>
+</javaScript>
+
+
+<machineLearning>
+	<textoAlternativo>
+		<informacion></informacion>
+		<titulo>Muy recomendable para la gente que este interesada en Machine Learning, inteligencia artificial, et</titulo>
+		<url>https://twitter.com/cabiedas/status/1376461658130898945?s=20</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</textoAlternativo>
+</machineLearning>
+
+
+
+<madridProyectosTic>
+		<informacion></informacion>
+		<titulo>Check out Communitifi on Twitter. Somos un proyecto colaborativo que busca facilitar el acceso universal a Internet a un precio justo, reduciendo la #BrechaDigital </titulo>
+		<url>https://twitter.com/communitifi_org?s=20</url>
+		<url></url>
+</madridProyectosTic>
+
+
+<miIdeaEmprendimiento>
+	<monitores>
+		<informacion></informacion>
+		<titulo>Gente de twitter, estoy pensando en cambiar setup, quiero ponerme un monitor de 27 pero como segunda pantalla no sé si dejarme una de las que tengo (24) y ponerla vertical, o tener otra pantalla horizontal...¿recomendaciones?</titulo>
+		<url>https://t.co/I3XcA5CT45 </url>
+		<url>https://twitter.com/martatorredev/status/1375402948486967298?s=20</url>
+	</monitores>
+	<streaming>
+		<informacion></informacion>
+		<titulo>Pregunta sería para los que hacéis stream desde hace tiempo en twitch 🙏 </titulo>
+		<url>https://twitter.com/angelmartin_nc/status/1375444924536131591?s=20</url>
+		<url></url>
+	</streaming>
+	<aroLuz>
+		<informacion></informacion>
+		<titulo>Necesito/quiero un aro de luz ¿Me recomiendas uno? </titulo>
+		<url>https://twitter.com/cristina_pampin/status/1375497507099316225?s=20</url>
+		<url></url>
+	</aroLuz>
+</miIdeaEmprendimiento>
+
+
+<php>
+	<informacion>* Un Crud de libros con acceso protegido y público</informacion>
+	<titulo>Un video para aprender a crear aplicaciones con php y MySQL usando Yii Framework </titulo>
+	<url>https://t.co/H9HKy8WSVC </url>
+	<url>https://twitter.com/develoteca/status/1376537878524653570?s=20</url>
+	<url></url>
+	<url></url>
+</php>
+
+<react>
+		<informacion></informacion>
+		<titulo>Llegando a las 300 clases del curso de React Native! Estoy seguro que será un curso que les servirá montones :) </titulo>
+		<url>https://t.co/rYlBjyVeIQ </url>
+		<url>https://twitter.com/Fernando_Her85/status/1374861709735833600?s=20</url>
+</react>
+
+<serDesarrollador>
+		<informacion></informacion>
+		<titulo>These websites can help you as a developer👇</titulo>
+		<url>https://twitter.com/Prathkum/status/1376063877767593985?s=20</url>
+		<url>pullrequest .com Code review as a service by expert engineers</url>
+		<url>learn-anything .xyz Search anything here and it will show you the correct roadmap</url>
+		<url>cheatography .com Over 4000 Free Cheat Sheet</url>
+</serDesarrollador>
+
+
+<testing>
+	<informacion></informacion>
+	<titulo>Cuando me preguntan por dónde pueden empezar aprendiendo testing, siempre los mando a mis slides pero igual es más engorroso ir al GitHub y descargarlas. (No es engorroso, pero ustedes son flojos) Así que pensé hacer un hilo con los recursos que he usado yo</titulo>
+	<url>https://twitter.com/Ari_Reinventada/status/1376426687441813507?s=20</url>
+	<url></url>
+	<url></url>
+	<url></url>
+</testing>
+
+
+
+
+
+<trabajar>
+	<empresa>
+		<informacion>Empresas de LA NAVE que están actualmente buscando gente de  prácticas</informacion>
+		<titulo>Learning and Growth con La Nave – La Nave Madrid</titulo>
+		<url>https://www.lanavemadrid.com/actividad/learning-and-growth-con-la-nave/</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</empresa>
+
+	<empresa>
+		<informacion>Empresas que trabajan con Discapacidad y TIC</informacion>
+		<titulo>El Programa #RADIA impulsado por @ONCE_oficial @conferenciacs nace para favorecer la inclusión de mujeres con discapacidad en entornos de trabajo digital y aumentar así el número de profesionales en los ámbitos tecnológico</titulo>
+		<url>https://t.co/FYVsof9yNh </url>
+		<url>https://twitter.com/WomenBJ/status/1374686564928868352?s=20</url>
+		<url></url>
+		<url></url>
+	</empresa>
+
+	<empresa>
+		<informacion>Empresas innovadoras en el sector salud</informacion>
+		<titulo>La aceleradora @Inn_Somnia crea eHealth Future, un espacio para más de 700 startups enfocadas en el sistema sanitario, telemedicina o medicina de precisión</titulo>
+		<url>https://t.co/abTaPUFMk0</url>
+		<url>https://twitter.com/disruptores_inn/status/1374692475017773060?s=20</url>
+		<url></url>
+		<url></url>
+	</empresa>
+	<empresa>
+		<informacion>Empresas sector social</informacion>
+		<titulo>¿Qué queremos? Generar impacto positivo desde el diseño 🙌 ¿Cómo lo queremos? Contando con las comunidades implicadas 🙌 ¿Y cuándo lo queremos? Pues ya, claro 🙌 Suerte que el Taller de Innovación Social vuelve en mayo.
+		</titulo>
+		<url>https://t.co/FNoqlBHGeG</url>
+		<url>https://t.co/EcQdkVOfCT</url>
+		<url>https://twitter.com/Nodrizismo/status/1375416751417143302?s=20</url>
+		<url></url>
+	</empresa>
+	<empresa>
+		<informacion>Economia creativa</informacion>
+		<titulo>¿Conoces todas las oportunidades de crecimiento que brinda la economía creativa? Te recomendamos este artículo de @cesce_es, donde podrás encontrar todas las claves de este sector económico </titulo>
+		<url>https://t.co/EWreGGWm1K </url>
+		<url>https://t.co/N7iOR2SMYH </url>
+		<url>https://twitter.com/eFPEmprende/status/1375822416493088770?s=20</url>
+		<url></url>
+	</empresa>
+	<marcaPersonal>
+		<informacion></informacion>
+		<titulo>Esta tarde a las 19h🇪🇸 toca nueva sesión de #TechLecturas en Twitch! Construir nuestra marca personal Crear un blog Aportar valor al mundo Cómo usar tus redes sociales</titulo>
+		<url>https://t.co/kA46GnNTOj </url>
+		<url>https://twitter.com/garcaplay/status/1376183048245555200?s=20</url>
+	</marcaPersonal>
+</trabajar>
+
+
+
+
+
+
+
+
+
