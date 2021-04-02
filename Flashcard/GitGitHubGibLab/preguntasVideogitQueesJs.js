@@ -67,7 +67,7 @@ function descargaArchivoXML()
 			// Preparar la funcion de respuesta
 			peticion_http.onreadystatechange = muestraContenido;
 			// Realizar peticion HTTP
-			peticion_http.open('GET', 'xmlGitGithubGitLab.xml', true);
+			peticion_http.open('GET', 'borrarXml.xml', true);
 			peticion_http.send(null);
 
 			function muestraContenido()
