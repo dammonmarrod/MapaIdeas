@@ -49,7 +49,9 @@
 	<sql>
 		<informacion>Inyecciones de SQL</informacion>
 		<titulo>Buenas noches, me gustaría compartir de nuevo mis escritos de inyecciones sql, en donde se habla desde lo básico, después algo mas avanzado, y pasando por las inyecciones automatizadas. Por último esta una recopilación de payloads para inyecciones XSS y SQL</titulo>
-		<url> https://twitter.com/_Y000_/status/1359369804684136456?s=20</url>
+		<url>https://twitter.com/_Y000_/status/1359369804684136456?s=20</url>
+		<url>https://twitter.com/_Y000_/status/1337281743632670720</url>
+		<url></url>
 		<url></url>
 	</sql>
 </basesDatos>
@@ -80,6 +82,8 @@
 		<titulo>Historia de los '#chatbots': de Alan Turing a la innovación en la atención al cliente vía @Invertia </titulo>
 		<url>https://t.co/mNS2hW5QfA</url>
 		<url>https://twitter.com/uji_uadti/status/1375341871996751872?s=20</url>
+		<url></url>
+		<url></url>
 	</chatbots>
 </datos>
 
@@ -254,12 +258,6 @@
 	<url></url>
 </php>
 
-<react>
-		<informacion></informacion>
-		<titulo>Llegando a las 300 clases del curso de React Native! Estoy seguro que será un curso que les servirá montones :) </titulo>
-		<url>https://t.co/rYlBjyVeIQ </url>
-		<url>https://twitter.com/Fernando_Her85/status/1374861709735833600?s=20</url>
-</react>
 
 <serDesarrollador>
 		<informacion></informacion>
