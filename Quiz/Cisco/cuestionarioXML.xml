@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preguntasCisco>
+	<preguntas>
+		<pregunta>¿Cuál es el propósito de la ventana deslizante de TCP?</pregunta>
+		<respuestas>
+			<respuesta>Solicitar a un origen que reduzca la velocidad de transferencia de datos.</respuesta>
+			<correcto>true</correcto> 
+			<respuesta>Asegurar que los segmentos lleguen en orden al destino.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Finalizar la comunicación cuando se completa la transmisión de datos.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Informar a un origen que debe retransmitir datos desde un punto específico en adelante.</respuesta>
+			<correcto>false</correcto> 
+		</respuestas>
+		<solucion>La ventana deslizante de TCP permite que un dispositivo de destino informe a un origen que debe reducir la velocidad de transmisión. Para lograrlo, el dispositivo de destino reduce el valor incluido en el campo de tamaño de ventana del segmento. 
+		Para especificar la retransmisión desde un punto específico en adelante, se utilizan los números de acuse de recibo. 
+		Para asegurar que los segmentos lleguen en orden, se utilizan los números de secuencia. 
+		Por último, para finalizar la sesión de comunicación, se utiliza un bit de control FIN.</solucion>
+	</preguntas>
+	<preguntas>
+		<pregunta>Un técnico puede hacer ping a la dirección IP del servidor web de una empresa remota, pero no puede hacer ping correctamente a la dirección URL del mismo servidor web. ¿Qué utilidad de software puede utilizar para diagnosticar el problema?</pregunta>
+		<respuestas>
+			<respuesta>ipconfig.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>netstat.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>tracert.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>nslookup.</respuesta>
+			<correcto>true</correcto> 
+		</respuestas>
+		<solucion>Traceroute (tracert) es una utilidad que genera una lista de los saltos que se alcanzaron con éxito a lo largo de la ruta desde el origen al destino. 
+		Esta lista puede proporcionar información importante de verificación y solución de problemas. 
+		La utilidad ipconfig se utiliza para mostrar los valores de configuración de IP en una PC con Windows. 
+		La utilidad Netstat se utiliza para identificar qué conexiones TCP activas están abiertas y ejecutándose en un host en red. 
+		Nslookup es una utilidad que permite al usuario consultar manualmente los servidores de nombres para resolver un nombre de host determinado. 
+		Esta utilidad también se puede utilizar para solucionar problemas de resolución de nombres y verificar el estado actual de los servidores de nombres.</solucion>
+	</preguntas>
+	<preguntas>
+		<pregunta>¿Cuáles de las siguientes son dos características de IP? Elija dos opciones.</pregunta>
+		<respuestas>
+			<respuesta>Vuelve a transmitir los paquetes si se producen errores.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Opera independientemente de los medios de red.</respuesta>
+			<correcto>true</correcto> 
+			<respuesta>No requiere una conexión completa exclusiva.</respuesta>
+			<correcto>true</correcto> 
+			<respuesta>Garantiza la distribución de los paquetes.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Rearma los paquetes desordenados en el orden correcto en el lado del receptor.</respuesta>
+			<correcto>false</correcto>
+		</respuestas>
+		<solucion>El Protocolo de Internet (IP) es un protocolo de mejor esfuerzo sin conexión. 
+		Esto significa que IP no requiere una conexión de un extremo a otro ni garantiza la entrega de paquetes. 
+		IP también es independiente de los medios, lo que significa que funciona independientemente de los medios de red que transportan los paquetes.</solucion>
+	</preguntas>
+	<preguntas>
+		<pregunta>Los usuarios informan que el acceso a la red es lento. Después de preguntar a los empleados, el administrador de red descubrió que un empleado descargó un programa de análisis de terceros para la impresora. ¿Qué tipo de malware puede introducirse, que provoque el rendimiento lento de la red.</pregunta>
+		<respuestas>
+			<respuesta>Gusano.</respuesta>
+			<correcto>true</correcto> 
+			<respuesta>Suplantación de identidad.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Virus.</respuesta>
+			<correcto>false</correcto> 
+			<respuesta>Correo no deseado.</respuesta>
+			<correcto>false</correcto> 
+		</respuestas>
+		<solucion>Explicación: Un especialista en ciberseguridad debe estar familiarizado con las características de los diferentes tipos de malware y ataques que amenazan a una organización.</solucion>
+	</preguntas>
+
+</preguntasCisco>
+
+
