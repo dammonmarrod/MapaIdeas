@@ -1,9 +1,13 @@
 <!-- Falta a partir de 30Marzo-->
 <antiGoogle>
+	<analytics>
 		<informacion>Implemental analytics sin Google</informacion>
-		<titulo>¿Quieres implementar analytics en tu sitio sin comprometer GDPR ni la privacidad de tus usuarios? Echa un vistazo a @PlausibleHQ que tienen un modelo asequible y muy amigable</titulo>
+		<titulo>¿Quieres implementar analytics en tu sitio sin comprometer GDPR ni la privacidad de tus usuarios? Echa un vistazo a @PlausibleHQ que tienen un modelo asequible y muy amigable. Yo llevo varios años usando @matomo_org , aunque siempre es bueno conocer y probar alternativas, pinta interesante</titulo>
 		<url>https://twitter.com/ant_laguna/status/1374636911676043275?s=20</url>
+		<url>https://twitter.com/PlausibleHQ</url>
+		<url>https://twitter.com/matomo_org</url>
 		<url></url>
+	</analytics>
 	<derechoAlOlvido>
 		<informacion>Derecho al olvido</informacion>
 		<titulo>Te explicamos en esta ficha práctica cómo puedes eliminar tus datos personales que aparecen en los resultados de un buscador y ejercer tu #DerechoAlOlvido. #ProtegeTusDatos Más info: </titulo>
@@ -23,19 +27,19 @@
 
 <apis>
 	<herramientasApis>
-		<informacion>Herramientas de api</informacion>
+		<informacion>Herramientas opensourse para solucionar problemas en el desarrollo de api</informacion>
 		<titulo>Echa un vistazo a este listado de herramientas #opensource muy útiles que te ayudarán a solucionar problemas en el desarrollo de #APIs.</titulo>
-		<url>https://t.co/RSZhDyXyOw</url>
-		<url>https://t.co/ssw2ivcrbg</url>
 		<url>https://twitter.com/APIAddicts/status/1375108817621516293?s=20</url>
+		<url>https://openapi.tools/</url>
+		<url></url>
 		<url></url>
 	</herramientasApis>
 	<funcionamientoApis>
 		<informacion>Aquí tienes una lista elaborada por el equipo de BBVA</informacion>
 		<titulo>¿Sabrías decir detrás de cuántas de nuestras rutinas diarias se esconde una API? ¡Desde luego están en todos lados! 6 cosas que no imaginarías que esconde una API en su funcionamiento.</titulo>
-		<url>https://t.co/aY2v3h0Rvv </url>
-		<url>https://t.co/zM8sf4Agk9 </url>
+		<url>https://t.co/aY2v3h0Rvv</url>
 		<url>https://twitter.com/APIAddicts/status/1376550277386473477?s=20</url>
+		<url></url>
 		<url></url>
 	</funcionamientoApis>
 </apis>
@@ -53,18 +57,24 @@
 
 <blockchain>
 		<informacion>Entrevista sobre Blockhain</informacion>
-		<titulo>Cuando el #Blockchain se cruzó en mi camino, lo reconocí como una #tecnología que podría crear un cambio a gran escala y resolver problemas mundiales"</titulo>
-		<url>https://t.co/QkgtvhggLy</url>
+		<titulo>Ethereum es la primera plataforma de distribución de aplicaciones completamente programable en Blockchain</titulo>
 		<url>https://twitter.com/cibervoluntario/status/1375049941958197254?s=20</url>
+		<url>https://empodera.org/impact/es/experiencias/experiencia/aya-miyaguchi</url>
+		<url></url>
+		<url></url>
 </blockchain>
 
 
 
 <datos>
+	<aplicacionesCreadasConDatos>
 		<informacion>Datos de un satelite</informacion>
 		<titulo>Pues ya tengo mi pequeña estación terrestre @tiny__GS para recibir señales de satélites. Lo he montado esta tarde en un rato, gracias al gran trabajo de @G4lile0 @dev_4m1g0 @gmag12 IMPRESIONANTE!!</titulo>
-		<url> https://t.co/op6kBx2XdF </url>
+		<url>https://t.co/op6kBx2XdF</url>
 		<url>https://twitter.com/akirasan/status/1374485672208199688?s=20</url>
+		<url></url>
+		<url></url>
+	<aplicacionesCreadasConDatos>
 	<chatbots>
 		<informacion></informacion>
 		<titulo>Historia de los '#chatbots': de Alan Turing a la innovación en la atención al cliente vía @Invertia </titulo>
@@ -89,6 +99,8 @@
 		<titulo>Proceso de trabajo con diseñadora usando github</titulo>
 		<url>https://t.co/saI6kji8Na</url>
 		<url>https://twitter.com/martatorredev/status/1375048305579847680?s=20</url>
+		<url></url>
+		<url></url>
 	</buenasPracticas>
 	<estilosUI>
 		<informacion></informacion>
@@ -167,7 +179,7 @@
 <javaScript>
 		<informacion>Casting de tipos</informacion>
 		<titulo>Javascript es un mundo extraño y maravilloso a la vez </titulo>
-		<url>https://t.co/wAbdwX4vXv </url>
+		<url>https://t.co/wAbdwX4vXv</url>
 		<url>https://twitter.com/antoomartini/status/1375082055093121025?s=20</url>
 		<url></url>
 		<url></url>
