@@ -76,16 +76,20 @@
 
 
 <Diseño>
-
-		<informacion>Diseño</informacion>
-		<titulo>Un vistazo a este tweet te puede ayudar bastante</titulo>
-		<url>https://t.co/hcpwV3hpy5</url>
-		<url>https://twitter.com/NavisCode/status/1374721383272448005?s=20</url>
-		
+	<buenasPracticas>
+		<informacion>Diseño para desarrolladores</informacion>
+		<titulo>¿Eres developer pero te cuesta diseñar? No te quedes pegado siguiendo estos 4 pasos:</titulo>
+		<url>https://twitter.com/fmontes/status/1374715372750901252</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</buenasPracticas>
+	<buenasPracticas>
 		<informacion>Informacion sobre como utilizar github en Diseño</informacion>
 		<titulo>Proceso de trabajo con diseñadora usando github</titulo>
 		<url>https://t.co/saI6kji8Na</url>
 		<url>https://twitter.com/martatorredev/status/1375048305579847680?s=20</url>
+	</buenasPracticas>
 	<estilosUI>
 		<informacion></informacion>
 		<titulo>Aprende cómo gestionar colores, temas, estilos en apps ➕PLUS: cómo dejar de sufrir cuando UI cambia los colores de la app😱 Bernat Borras @lepetitbernat, Android Dev, te cuenta esto y más en su charla para @malaga_mobile  </titulo>
@@ -103,10 +107,12 @@
 		<url>https://twitter.com/NavisCode/status/1376051676944158720?s=20</url>
 	</iconos>
 	<recursosCSS>
-		<informacion>Librerías Css</informacion>
-		<titulo>Recopilacion de generadores de CSS</titulo>
+		<informacion>Generadores de CSS</informacion>
+		<titulo>The Best Gradient Generators & Libraries</titulo>
 		<url>https://t.co/9WzCWdYFIW</url>
 		<url>https://twitter.com/dinaelurdaneta/status/1374654695118139394?s=20</url>
+		<url></url>
+		<url></url>
 	</recursosCSS>
 
 </Diseño>
@@ -147,6 +153,14 @@
 		<url>https://t.co/3LJ2zjBQsJ</url>
 		<url>https://t.co/3iP3XNeKne</url>
 		<url>https://twitter.com/alexdeveng/status/1375818510832701442?s=20</url>
+	<compilacionApps>
+		<informacion>Apps para compilar codigo Java</informacion>
+		<titulo>JStudio is an integrated development environment(ide) for developing android apps or java console programs on your device with support for auto completion and real time error checking among others.</titulo>
+		<url>https://play.google.com/store/apps/details?id=com.qamar.ide.java&hl=es_HN</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</compilacionAppsZ
 </java>
 
 
@@ -270,19 +284,19 @@
 
 	<empresa>
 		<informacion>Empresas que trabajan con Discapacidad y TIC</informacion>
-		<titulo>El Programa #RADIA impulsado por @ONCE_oficial @conferenciacs nace para favorecer la inclusión de mujeres con discapacidad en entornos de trabajo digital y aumentar así el número de profesionales en los ámbitos tecnológico</titulo>
-		<url>https://t.co/FYVsof9yNh </url>
+		<titulo>El Programa RADIA impulsado por ONCE_oficial nace para favorecer la inclusión de mujeres con discapacidad en entornos de trabajo digital y aumentar así el número de profesionales en los ámbitos tecnológico</titulo>
 		<url>https://twitter.com/WomenBJ/status/1374686564928868352?s=20</url>
+		<url></url>
 		<url></url>
 		<url></url>
 	</empresa>
 
 	<empresa>
-		<informacion>Empresas innovadoras en el sector salud</informacion>
+		<informacion>Empresas innovadoras en el sector salud eHealth Future</informacion>
 		<titulo>La aceleradora @Inn_Somnia crea eHealth Future, un espacio para más de 700 startups enfocadas en el sistema sanitario, telemedicina o medicina de precisión</titulo>
 		<url>https://t.co/abTaPUFMk0</url>
 		<url>https://twitter.com/disruptores_inn/status/1374692475017773060?s=20</url>
-		<url></url>
+		<url>https://innsomnia.es/es/</url>
 		<url></url>
 	</empresa>
 	<empresa>
