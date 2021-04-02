@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>TodoCompleto</title>
+	<style type="text/css">
+		.izquierda{
+			float:left;
+			border: 2px solid black;
+		}
+		.derecha{
+			float:left;
+			border: 2px solid black;
+		}
+		.primerDiv, .segundoDiv, .tercerDiv{
+			position: relative;
+		}
+		footer{
+			clear:both;/* para que no siga la orientación de los div arriba */
+		}
+	</style>
+	<script type="text/javascript" src="todoCompletoJS.js"></script>
+</head>
+<body>
+	<header>
+		<h1>CABECERA</h1>
+	</header>
+	<div class="contenedor"  id="contenedor">
+		
+
+
+		<div class="izquierda" id="izquierda">
+			<h4>Div Izquierda</h4>
+			<div class="primerDiv" id="primerDiv">
+				<h4>Primer Div</h4>
+				<button id="gamificacion">Gamificacion</button>
+			</div>
+			<div class="segundoDiv" id="segundoDiv">
+				<h4>Segundo Div</h4>
+				<video controls 
+				src="https://mazwai.com/videvo_files/video/free/2015-07/small_watermarked/Clouds_1_1_preview.webm" 
+				poster="imagen4.jpg" 
+				width="320">
+				<track label="Español" kind="subtitles" srclang="es"
+				src="subtitulos.vtt" default>
+				Actitud Positiva.	
+				</video>
+				<br>
+				<button id="reproducir">Reproducir</button>
+				<button id="pausar">Pausa</button>
+				<button id="subirVolumen">Subir Volumen</button>
+				<button id="bajarVolumen">Bajar Volumen</button>
+			</div>
+			<div class="tercerDiv" id="tercerDiv">
+				<h4>Tercer Div</h4>
+				<audio controls></audio>
+			</div>
+
+		</div><!--Fin id izquierda-->
+		
+
+		<div class="derecha" id="derecha">
+			<h4>Div Derecha</h4>
+		</div><!--Fin id derecha-->
+
+	</div><!--Fin id contenedor-->
+	<footer>
+		<h6>Final</h6>
+	</footer>
+</body>
+</html>
+
