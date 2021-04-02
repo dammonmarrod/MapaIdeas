@@ -1,3 +1,4 @@
+<recursosUtiles>
 <!-- Falta a partir de 30Marzo-->
 <antiGoogle>
 	<analytics>
@@ -76,12 +77,12 @@
 		<url>https://twitter.com/akirasan/status/1374485672208199688?s=20</url>
 		<url></url>
 		<url></url>
-	<aplicacionesCreadasConDatos>
+	</aplicacionesCreadasConDatos>
 	<chatbots>
 		<informacion></informacion>
-		<titulo>Historia de los '#chatbots': de Alan Turing a la innovación en la atención al cliente vía @Invertia </titulo>
-		<url>https://t.co/mNS2hW5QfA</url>
+		<titulo>Historia de los 'chatbots': de Alan Turing a la innovación en la atención al cliente</titulo>
 		<url>https://twitter.com/uji_uadti/status/1375341871996751872?s=20</url>
+		<url>https://t.co/mNS2hW5QfA</url>
 		<url></url>
 		<url></url>
 	</chatbots>
@@ -176,7 +177,7 @@
 		<url></url>
 		<url></url>
 		<url></url>
-	</compilacionAppsZ
+	</compilacionApps>
 </java>
 
 
@@ -229,21 +230,27 @@
 
 <miIdeaEmprendimiento>
 	<monitores>
-		<informacion></informacion>
+		<informacion>Aplicacion para Streaming streamlabs/Obs</informacion>
 		<titulo>Gente de twitter, estoy pensando en cambiar setup, quiero ponerme un monitor de 27 pero como segunda pantalla no sé si dejarme una de las que tengo (24) y ponerla vertical, o tener otra pantalla horizontal...¿recomendaciones?</titulo>
-		<url>https://t.co/I3XcA5CT45 </url>
 		<url>https://twitter.com/martatorredev/status/1375402948486967298?s=20</url>
+		<url></url>
+		<url></url>
+		<url></url>
 	</monitores>
 	<streaming>
 		<informacion></informacion>
 		<titulo>Pregunta sería para los que hacéis stream desde hace tiempo en twitch 🙏 </titulo>
 		<url>https://twitter.com/angelmartin_nc/status/1375444924536131591?s=20</url>
 		<url></url>
+		<url></url>
+		<url></url>
 	</streaming>
 	<aroLuz>
 		<informacion></informacion>
 		<titulo>Necesito/quiero un aro de luz ¿Me recomiendas uno? </titulo>
 		<url>https://twitter.com/cristina_pampin/status/1375497507099316225?s=20</url>
+		<url></url>
+		<url></url>
 		<url></url>
 	</aroLuz>
 </miIdeaEmprendimiento>
@@ -313,9 +320,9 @@
 		<informacion>Empresas sector social</informacion>
 		<titulo>¿Qué queremos? Generar impacto positivo desde el diseño 🙌 ¿Cómo lo queremos? Contando con las comunidades implicadas 🙌 ¿Y cuándo lo queremos? Pues ya, claro 🙌 Suerte que el Taller de Innovación Social vuelve en mayo.
 		</titulo>
-		<url>https://t.co/FNoqlBHGeG</url>
-		<url>https://t.co/EcQdkVOfCT</url>
 		<url>https://twitter.com/Nodrizismo/status/1375416751417143302?s=20</url>
+		<url>https://t.co/FNoqlBHGeG</url>
+		<url></url>
 		<url></url>
 	</empresa>
 	<empresa>
@@ -369,7 +376,7 @@
 	</youtube>
 </wordPress>
 
-
+</recursosUtiles>
 
 
 
