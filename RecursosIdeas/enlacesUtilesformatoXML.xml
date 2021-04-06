@@ -84,6 +84,19 @@
 
 
 
+	
+<cocina>
+	<recetas>
+		<informacion>Recetas fáciles</informacion>
+		<titulo>¿Cuál es vuestra receta favorita de las ULTRA SENCILLAS pero rica y que os hace quedar como chefs? (No me vale cosas precocinadas) </titulo>
+		<url>https://twitter.com/AnastasiaKnt/status/1376630486005653511?s=20</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</recetas>
+</cocina>
+	
+	
 <datos>
 	<aplicacionesCreadasConDatos>
 		<informacion>Datos de un satelite</informacion>
@@ -101,6 +114,14 @@
 		<url></url>
 		<url></url>
 	</chatbots>
+	<libros>
+		<informacion></informacion>
+		<titulo>Uberland Cómo los algoritmos están reescribiendo las reglas del trabajo</titulo>
+		<url>https://www.todostuslibros.com/libros/uberland_978-84-947085-2-7#synopsis</url>
+		<url>https://www.amazon.es/Uberland-Alex-Rosenblat/dp/0520298578</url>
+		<url></url>
+		<url></url>
+	</libros>
 </datos>
 
 
@@ -132,6 +153,15 @@
 		<url></url>
 		<url></url>
 	</iconos>
+	<infografias>
+		<informacion></informacion>
+		<titulo>15 herramientas para crear infografías.Vía @educacion3_0 #educacion </titulo>
+		<url>https://twitter.com/CeDeC_intef/status/1376549710643687426?s=20</url>
+		<url>https://www.educaciontrespuntocero.com/recursos/crear-infografias/</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</infografias>
 	<recursosCSS>
 		<informacion>Generadores de CSS</informacion>
 		<titulo>The Best Gradient Generators & Libraries</titulo>
@@ -140,8 +170,28 @@
 		<url></url>
 		<url></url>
 	</recursosCSS>
+	<svg>
+		<informacion></informacion>
+		<titulo>The Best Gradient Generators & Libraries</titulo>
+		<url>https://twitter.com/NavisCode/status/1376788330671697920?s=20</url>
+		<url>https://svgurt.com/#/</url>
+		<url></url>
+		<url></url>
+	</svg>
 
 </Diseño>
+	
+	
+<git>
+	<githubEstudiante>
+		<informacion></informacion>
+		<titulo>No conozco nada mejor para estudiantes que esto que ofrece github gratis: GITHUB STUDENT DEVELOPER PACK</titulo>
+		<url>https://twitter.com/NavisCode/status/1376955129941745664/url>
+		<url>education.github .com/pack</url>
+		<url></url>
+		<url></url>
+	</githubEstudiante>
+</git>
 
 
 
@@ -210,6 +260,14 @@
 		<url></url>
 		<url></url>
 	</bucles>
+	<cheatSheet>
+		<informacion></informacion>
+		<titulo>Una información súper valiosa para todos los que estéis aprendiendo #JavaScript.</titulo>
+		<url>https://twitter.com/4GeeksAcademyES/status/1376903911911653377</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</cheatSheet>
 	<libros>
 		<informacion>Libro javaScript</informacion>
 		<titulo>Libro de @sw_crafters, bastante interesante y muy didactico, te lo recomiendo sobretodo si se quiere repasar conceptos de buenas practicas dentro de js y en programación en general.</titulo>
@@ -247,6 +305,14 @@
 
 
 <miIdeaEmprendimiento>
+	<clientes>
+		<informacion></informacion>
+		<titulo>¿Cómo sacar partido de la inacción de los clientes?</titulo>
+		<url>https://twitter.com/cesce_es/status/1376824027654815747?s=20</url>
+		<url>https://www.cesce.es/-/asesores-de-pymes/sacar-partido-inaccion-clientes</url>
+		<url></url>
+		<url></url>
+	</clientes>
 	<monitores>
 		<informacion>Aplicacion para Streaming streamlabs/Obs</informacion>
 		<titulo>Gente de twitter, estoy pensando en cambiar setup, quiero ponerme un monitor de 27 pero como segunda pantalla no sé si dejarme una de las que tengo (24) y ponerla vertical, o tener otra pantalla horizontal...¿recomendaciones?</titulo>
@@ -284,8 +350,41 @@
 	
 </php>
 
+<react>
+	<informacion>Guía para usar D3 & React</informacion>
+	<titulo>Es difícil encontrar material de esta calidad y tan bien explicado. Sobre todo en el universo D3 que todo suele ser bastante complejo de entender.</titulo>
+	<url>https://twitter.com/Dividivan/status/1376817855036063745?s=20</url>
+	<url>https://twitter.com/Wattenberger/status/1375063666840772615</url>
+	<url>https://wattenberger.com/blog/react-and-d3</url>
+	<url></url>
+</react>
+	
 
 <serDesarrollador>
+	<apuntes>
+		<informacion></informacion>
+		<titulo>Ya está actualizada http://teloexplicocongatitos.com con todos los posters, docker incluido :)</titulo>
+		<url>https://twitter.com/iamdoomling/status/1376605643856093197</url>
+		<url>https://teloexplicocongatitos.com/</url>
+		<url></url>
+		<url></url>
+	</apuntes>
+	<buenasPracticas>
+		<informacion></informacion>
+		<titulo>Are you a Web Developer?. Here are 50+ resources to help you Improve your Web Performance</titulo>
+		<url>https://twitter.com/NlognHQ/status/1376823556743462915</url>
+		<url>https://threadreaderapp.com/thread/1376823556743462915.html</url>
+		<url></url>
+		<url></url>
+	</buenasPracticas>
+	<nombrepaginaWeb>
+		<informacion></informacion>
+		<tituloSe supone que para comprar gTLDs de países, algunos —como por ejemplo Italia (.it) o Francia (.fr)— exigen una dirección de registro local. ¿habéis comprado dominios de otros países sin dirección allí? ¿con qué registrador? </titulo>
+		<url>https://twitter.com/david_bonilla/status/1376918037023096835?s=20</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</nombrepaginaWeb>
 	<recursos>
 		<informacion></informacion>
 		<titulo>These websites can help you as a developer👇</titulo>
@@ -298,12 +397,14 @@
 
 
 <testing>
+	<recursos>
 		<informacion></informacion>
 		<titulo>Hilo de los recursos que usé para aprender testing y que he seguido consultando. Espero le saquen provecho y hagan testing en sus trabajos, no como yo😭💔 </titulo>
+		<url>https://twitter.com/Ari_Reinventada/status/1376595635307212803?s=20</url>
+		<url>https://www.youtube.com/watch?v=5xaDvCayGu4&t=616s</url>
+		<url>https://www.youtube.com/watch?v=DCPpDw_HfgI&list=PLV_VSxFnAJKL7EFErVLnJuRqqhb_7QSNT&index=5</url>
 		<url></url>
-		<url></url>
-		<url></url>
-		<url></url>
+	</recursos>
 </testing>
 
 
