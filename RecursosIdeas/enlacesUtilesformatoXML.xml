@@ -12,15 +12,17 @@
 	<derechoAlOlvido>
 		<informacion>Derecho al olvido</informacion>
 		<titulo>Te explicamos en esta ficha práctica cómo puedes eliminar tus datos personales que aparecen en los resultados de un buscador y ejercer tu #DerechoAlOlvido. #ProtegeTusDatos Más info: </titulo>
-		<url>https://t.co/e7G4RBi1wI</url>
-		<url>https://t.co/V2Ee9Ii4Tb </url>
 		<url>https://twitter.com/AEPD_es/status/1376067028193210369?s=20</url>
+		<url>https://t.co/e7G4RBi1wI</url>
+		<url></url>
+		<url></url>
+		
 	</derechoAlOlvido>
 	<noMasGoogle>
-		<informacion></informacion>
+		<informacion>Herramientas para no usar Google</informacion>
 		<titulo>Privacy-friendly alternatives to Google that don't track you </titulo>
 		<url>https://twitter.com/onoffre/status/1376206027654324225?s=20</url>
-		<url>https://t.co/sHaLOsVkRH </url>
+		<url>https://t.co/sHaLOsVkRH</url>
 		<url></url>
 		<url></url>
 	</noMasGoogle>
@@ -116,12 +118,13 @@
 		<url></url>
 	</estilosUI>
 	<iconos>
-		<informacion></informacion>
-		<titulo>Uno de los sitios que más me gusta para encontrar iconos es. Simple de usar, iconos de alta calidad, personalizables y gratuitos:</titulo>
-		<url>glyphs.fyi</url>
-		<url>https://t.co/Ra9B9rQpCc </url>
-		<url>https://t.co/NZY2ApuHUP </url>
+		<informacion>Iconos</informacion>
+		<titulo>Uno de los sitios que más me gusta para encontrar iconos. Simple de usar, iconos de alta calidad, personalizables y gratuitos</titulo>
 		<url>https://twitter.com/NavisCode/status/1376051676944158720?s=20</url>
+		<url>glyphs.fyi</url>
+		<url></url>
+		<url></url>
+		<url></url>
 	</iconos>
 	<recursosCSS>
 		<informacion>Generadores de CSS</informacion>
@@ -139,19 +142,19 @@
 
 <inclusion>
 	<influencer>
-		<informacion></informacion>
-		<titulo>#ICT #TIC • #a11y • #Inclusion • #Diversity • #HSP #PAS • IT Assistant at TothomWeb • PUXL's A11y Catalonia & Barcelona Ambassador • SolidJobs's member </titulo>
+		<informacion>Cuenta a seguir @Mel__Caballero</informacion>
+		<titulo>Accessibility Consultant at TothomWeb • PUXL's A11y Catalonia & BCN Ambassador • SolidJobs's memberhomWeb • PUXL's A11y Catalonia & Barcelona Ambassador • SolidJobs's member </titulo>
 		<url>https://twitter.com/Mel__Caballero?s=20</url>
-		<url></url>
+		<url>https://www.mybackpack.es/</url>
 		<url></url>
 		<url></url>
 	</influencer>
 	<pdfAccesibles>
 		<informacion></informacion>
-		<titulo> Recuerda que los documentos PDF disponibles en tu web también deben ser #accesibles</titulo>
-		<url>https://t.co/doMHUIIaZ9 </url>
-		<url>https://t.co/XX846CE0M4 </url>
+		<titulo>Recuerda que los documentos PDF disponibles en tu web también deben ser #accesibles</titulo>
 		<url>https://twitter.com/OBSAE/status/1373982799770836992?s=20</url>
+		<url>https://t.co/doMHUIIaZ9</url>
+		<url></url>
 		<url></url>
 	</pdfAccesibles>
 	<textoAlternativo>
@@ -165,11 +168,7 @@
 </inclusion>
 
 <java>
-		<informacion></informacion>
-		<titulo>Mira el video @vilojona de @RedHatEMEA hablando sobre Kubernetes Operators en Java! No tiene desperdicio!</titulo>
-		<url>https://t.co/3LJ2zjBQsJ</url>
-		<url>https://t.co/3iP3XNeKne</url>
-		<url>https://twitter.com/alexdeveng/status/1375818510832701442?s=20</url>
+		
 	<compilacionApps>
 		<informacion>Apps para compilar codigo Java</informacion>
 		<titulo>JStudio is an integrated development environment(ide) for developing android apps or java console programs on your device with support for auto completion and real time error checking among others.</titulo>
@@ -178,6 +177,15 @@
 		<url></url>
 		<url></url>
 	</compilacionApps>
+	<kubernates>
+		<informacion>Kubernetes Operators en Java</informacion>
+		<titulo>Mira el video @vilojona de @RedHatEMEA hablando sobre Kubernetes Operators en Java! No tiene desperdicio!</titulo>
+		<url>https://twitter.com/alexdeveng/status/1375818510832701442?s=20</url>
+		<url>https://t.co/3LJ2zjBQsJ</url>
+		<url>https://www.jbcnconf.com/2021/</url>
+		<url></url>
+		<url></url>
+	</kubernates>
 </java>
 
 
@@ -221,10 +229,14 @@
 
 
 <madridProyectosTic>
+	<redesWifi>	
 		<informacion></informacion>
 		<titulo>Check out Communitifi on Twitter. Somos un proyecto colaborativo que busca facilitar el acceso universal a Internet a un precio justo, reduciendo la #BrechaDigital </titulo>
 		<url>https://twitter.com/communitifi_org?s=20</url>
 		<url></url>
+		<url></url>
+		<url></url>
+	</redesWifi>
 </madridProyectosTic>
 
 
@@ -267,12 +279,14 @@
 
 
 <serDesarrollador>
+	<recursos>
 		<informacion></informacion>
 		<titulo>These websites can help you as a developer👇</titulo>
 		<url>https://twitter.com/Prathkum/status/1376063877767593985?s=20</url>
 		<url>pullrequest .com Code review as a service by expert engineers</url>
 		<url>learn-anything .xyz Search anything here and it will show you the correct roadmap</url>
 		<url>cheatography .com Over 4000 Free Cheat Sheet</url>
+	</recursos>
 </serDesarrollador>
 
 
@@ -328,16 +342,17 @@
 	<empresa>
 		<informacion>Economia creativa</informacion>
 		<titulo>¿Conoces todas las oportunidades de crecimiento que brinda la economía creativa? Te recomendamos este artículo de @cesce_es, donde podrás encontrar todas las claves de este sector económico </titulo>
-		<url>https://t.co/EWreGGWm1K </url>
-		<url>https://t.co/N7iOR2SMYH </url>
 		<url>https://twitter.com/eFPEmprende/status/1375822416493088770?s=20</url>
+		<url></url>
 		<url></url>
 	</empresa>
 	<marcaPersonal>
-		<informacion></informacion>
+		<informacion>Marca Personal</informacion>
 		<titulo>Esta tarde a las 19h🇪🇸 toca nueva sesión de #TechLecturas en Twitch! Construir nuestra marca personal Crear un blog Aportar valor al mundo Cómo usar tus redes sociales</titulo>
-		<url>https://t.co/kA46GnNTOj </url>
 		<url>https://twitter.com/garcaplay/status/1376183048245555200?s=20</url>
+		<url>https://www.twitch.tv/techlecturas/videos</url>
+		<url></url>
+		<url></url>
 	</marcaPersonal>
 </trabajar>
 		
