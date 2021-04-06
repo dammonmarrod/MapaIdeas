@@ -275,13 +275,13 @@
 
 
 <php>
-	<informacion>Un Crud de libros con acceso protegido y público</informacion>
-	<titulo>Un video para aprender a crear aplicaciones con php y MySQL usando Yii Framework </titulo>
-	
+	<informacion>CRUD con php y MySQl</informacion>
+	<titulo>Aprender a crear aplicaciones con php y MySQL usando Yii Framework  </titulo>
 	<url>https://twitter.com/develoteca/status/1376537878524653570?s=20</url>
+	<url>https://t.co/H9HKy8WSVC</url>
 	<url></url>
 	<url></url>
-	<url>https://t.co/H9HKy8WSVC </url>
+	
 </php>
 
 
@@ -298,7 +298,12 @@
 
 
 <testing>
-	
+		<informacion></informacion>
+		<titulo>Hilo de los recursos que usé para aprender testing y que he seguido consultando. Espero le saquen provecho y hagan testing en sus trabajos, no como yo😭💔 </titulo>
+		<url></url>
+		<url></url>
+		<url></url>
+		<url></url>
 </testing>
 
 
