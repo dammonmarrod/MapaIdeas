@@ -1,5 +1,18 @@
 <recursosUtiles>
-<!-- Falta a partir de 30Marzo-->
+<!-- Falta a partir de 30marzo-->
+<android>
+	<estilosUI>
+		<informacion></informacion>
+		<titulo>Aprende cómo gestionar colores, temas, estilos en apps ➕PLUS: cómo dejar de sufrir cuando UI cambia los colores de la app</titulo>
+		<url>https://twitter.com/AdevintaEng/status/1376549714464804876?s=20</url>
+		<url>https://www.youtube.com/watch?v=zvgLowWLQFQ</url>
+		<url></url>
+		<url></url>
+	</estilosUI>
+</android>
+	
+	
+	
 <antiGoogle>
 	<analytics>
 		<informacion>Implemental analytics sin Google</informacion>
@@ -40,8 +53,8 @@
 	<funcionamientoApis>
 		<informacion>Aquí tienes una lista elaborada por el equipo de BBVA</informacion>
 		<titulo>¿Sabrías decir detrás de cuántas de nuestras rutinas diarias se esconde una API? ¡Desde luego están en todos lados! 6 cosas que no imaginarías que esconde una API en su funcionamiento.</titulo>
-		<url>https://t.co/aY2v3h0Rvv</url>
 		<url>https://twitter.com/APIAddicts/status/1376550277386473477?s=20</url>
+		<url>https://t.co/aY2v3h0Rvv</url>
 		<url></url>
 		<url></url>
 	</funcionamientoApis>
@@ -109,14 +122,7 @@
 		<url></url>
 		<url></url>
 	</buenasPracticas>
-	<estilosUI>
-		<informacion></informacion>
-		<titulo>Aprende cómo gestionar colores, temas, estilos en apps ➕PLUS: cómo dejar de sufrir cuando UI cambia los colores de la app😱 Bernat Borras @lepetitbernat, Android Dev, te cuenta esto y más en su charla para @malaga_mobile  </titulo>
-		<url> https://t.co/R36r310TJ3</url>
-		<url>https://twitter.com/AdevintaEng/status/1376549714464804876?s=20</url>
-		<url></url>
-		<url></url>
-	</estilosUI>
+	
 	<iconos>
 		<informacion>Iconos</informacion>
 		<titulo>Uno de los sitios que más me gusta para encontrar iconos. Simple de usar, iconos de alta calidad, personalizables y gratuitos</titulo>
@@ -159,9 +165,9 @@
 	</pdfAccesibles>
 	<textoAlternativo>
 		<informacion></informacion>
-		<titulo>En Accesibilidad en la Web: Cómo escribir un buen texto alternativo  </titulo>
-		<url>https://t.co/VbI9uSHWdN </url>
+		<titulo>En Accesibilidad en la Web: Cómo escribir un buen texto alternativo</titulo>
 		<url>https://twitter.com/metsuke/status/1376431037606137862?s=20</url>
+		<url>https://t.co/VbI9uSHWdN</url>
 		<url></url>
 		<url></url>
 	</textoAlternativo>
@@ -197,33 +203,33 @@
 		<url></url>
 		<url></url>
 	<bucles>
-		<informacion></informacion>
+		<informacion>Bucles</informacion>
 		<titulo>Un repaso por los principales ciclos o loops para ejecutar código varias veces. </titulo>
-		<url> https://t.co/p0BY7tbukQ </url>
 		<url>https://twitter.com/carlosazaustre/status/1376540215389609991?s=20</url>
+		<url></url>
 		<url></url>
 		<url></url>
 	</bucles>
 	<libros>
-		<informacion></informacion>
-		<titulo>@_axtone terninando el libro de @sw_crafters, bastante interesante y muy didactico, te lo recomiendo sobretodo si se quiere repasar conceptos de buenas practicas dentro de js y en programación en general.</titulo>
-		<url>softwarecrafters.io Clean Code, SOLID y Testing aplicado a JS</url>
-		<url>https://t.co/XCIPvEAx4G </url>
+		<informacion>Libro javaScript</informacion>
+		<titulo>Libro de @sw_crafters, bastante interesante y muy didactico, te lo recomiendo sobretodo si se quiere repasar conceptos de buenas practicas dentro de js y en programación en general.</titulo>
 		<url>https://twitter.com/Randy_Terros/status/1376397767388639234?s=20</url>
+		<url>https://softwarecrafters.io/cleancode-solid-testing-js</url>
+		<url></url>
 		<url></url>
 	</libros>
 </javaScript>
 
 
 <machineLearning>
-	<textoAlternativo>
+	<youtube>
 		<informacion></informacion>
-		<titulo>Muy recomendable para la gente que este interesada en Machine Learning, inteligencia artificial, et</titulo>
-		<url>https://twitter.com/cabiedas/status/1376461658130898945?s=20</url>
+		<titulo> canales de Youtube para aprender sobre Inteligencia Artificial, Machine Learning y Data Science</titulo>
+		<url>https://twitter.com/PlanetaChatbot/status/1373582657859162115</url>
+		<url>https://planetachatbot.com/canales-youtube-sobre-inteligencia-artificial-51fa2cb123a4</url>
 		<url></url>
 		<url></url>
-		<url></url>
-	</textoAlternativo>
+	</youtube>
 </machineLearning>
 
 
@@ -269,12 +275,13 @@
 
 
 <php>
-	<informacion>* Un Crud de libros con acceso protegido y público</informacion>
+	<informacion>Un Crud de libros con acceso protegido y público</informacion>
 	<titulo>Un video para aprender a crear aplicaciones con php y MySQL usando Yii Framework </titulo>
-	<url>https://t.co/H9HKy8WSVC </url>
+	
 	<url>https://twitter.com/develoteca/status/1376537878524653570?s=20</url>
 	<url></url>
 	<url></url>
+	<url>https://t.co/H9HKy8WSVC </url>
 </php>
 
 
@@ -291,12 +298,7 @@
 
 
 <testing>
-	<informacion></informacion>
-	<titulo>Cuando me preguntan por dónde pueden empezar aprendiendo testing, siempre los mando a mis slides pero igual es más engorroso ir al GitHub y descargarlas. (No es engorroso, pero ustedes son flojos) Así que pensé hacer un hilo con los recursos que he usado yo</titulo>
-	<url>https://twitter.com/Ari_Reinventada/status/1376426687441813507?s=20</url>
-	<url></url>
-	<url></url>
-	<url></url>
+	
 </testing>
 
 
