@@ -379,7 +379,7 @@
 	</buenasPracticas>
 	<nombrepaginaWeb>
 		<informacion></informacion>
-		<tituloSe supone que para comprar gTLDs de países, algunos —como por ejemplo Italia (.it) o Francia (.fr)— exigen una dirección de registro local. ¿habéis comprado dominios de otros países sin dirección allí? ¿con qué registrador? </titulo>
+		<titulo>Se supone que para comprar gTLDs de países, algunos —como por ejemplo Italia (.it) o Francia (.fr)— exigen una dirección de registro local. ¿habéis comprado dominios de otros países sin dirección allí? ¿con qué registrador? </titulo>
 		<url>https://twitter.com/david_bonilla/status/1376918037023096835?s=20</url>
 		<url></url>
 		<url></url>
@@ -393,6 +393,14 @@
 		<url>learn-anything .xyz Search anything here and it will show you the correct roadmap</url>
 		<url>cheatography .com Over 4000 Free Cheat Sheet</url>
 	</recursos>
+	<validacion>
+		<informacion>Saber que navegador soporta determinadas estructuras de HTML y CSS</informacion>
+		<titulo>Can I use...Browser support tables for modern web technologies</titulo>
+		<url>https://caniuse.com/</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</validacion>
 </serDesarrollador>
 
 
