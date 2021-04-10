@@ -183,14 +183,31 @@
 	
 	
 <git>
+	
 	<githubEstudiante>
 		<informacion></informacion>
 		<titulo>No conozco nada mejor para estudiantes que esto que ofrece github gratis: GITHUB STUDENT DEVELOPER PACK</titulo>
-		<url>https://twitter.com/NavisCode/status/1376955129941745664/url>
+		<url>https://twitter.com/NavisCode/status/1376955129941745664</url>
 		<url>education.github .com/pack</url>
 		<url></url>
 		<url></url>
 	</githubEstudiante>
+	<perfilGit>
+		<informacion>Como modificar el ReadMe de Github</informacion>
+		<titulo>Readme github tutorial paso a paso | conecta spotify, últimos posts...</titulo>
+		<url>https://www.youtube.com/watch?v=P9Dp8-i6bww</url>
+		<url></url>
+		<url></url>
+		<url></url>
+	</perfilGit>
+	<perfilGit>
+		<informacion>Crearte un octoCat</informacion>
+		<titulo>Política de logo de GitHub</titulo>
+		<url>https://docs.github.com/es/github/site-policy/github-logo-policy</url>
+		<url>https://myoctocat.com/</url>
+		<url>https://octodex.github.com/</url>
+		<url></url>
+	</perfilGit>
 </git>
 
 
