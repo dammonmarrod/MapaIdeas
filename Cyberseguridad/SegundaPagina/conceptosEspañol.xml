@@ -1,1 +1,70 @@
-
+<concepts>
+  <concept>
+    <name>Ciberseguridad</name>
+    <definition>Esfuerzo continuo para proteger los sistemas de red conectados a Internet y todos los datos contra el uso no autorizado o daños.</definition>
+  </concept>
+    <concept>
+    <name>IdT (Internet de todo)</name>
+    <definition>Una gran red de objetos físicos, incluidos sensores y equipos.</definition>
+  </concept>
+    <concept>
+    <name>Componentes de la tríada CIA</name>
+    <definition>Confidencialidad, integridad y disponibilidad.</definition>
+  </concept>
+    <concept>
+    <name>Confidencialidad</</name>
+    <definition>También llamada privacidad; significa que el acceso a los datos está restringido a personal autorizado únicamente.</definition>
+  </concept>
+    <concept>
+    <name>Métodos para garantizar la confidencialidad</name>
+    <definition>Cifrado de datos, identificación de nombre de usuario y contraseña, autenticación de dos factores, etc.</definition>
+  </concept>
+    <concept>
+    <name>Integridad</name>
+    <definition>Término que indica precisión, uniformidad y confiabilidad de los datos.</definition>
+  </concept>
+    <concept>
+    <name>Métodos para garantizar la integridad</name>
+    <definition>Permisos de archivos, control de acceso de usuario, control de versión y checksum.</definition>
+  </concept>
+    <concept>
+    <name>Disponibilidad</name>
+    <definition>Término que describe los servicios y datos mantenidos correctamente y a los que se puede acceder todo el tiempo.</definition>
+  </concept>
+    <concept>
+    <name>Amenazas de seguridad internas</name>
+    <definition>Ataques que se originan dentro de una organización.</definition>
+  </concept>
+    <concept>
+    <name>Amenazas de seguridad externas</name>
+    <definition>Ataques que se originan fuera de una organización.</definition>
+  </concept>
+    <concept>
+    <name>Atacantes de sombrero blanco</name>
+    <definition>Personas u organizaciones que se dividen en redes o sistemas informáticos para descubrir las debilidades con la intención de mejorar la seguridad de estos sistemas.</definition>
+  </concept>
+    <concept>
+    <name>Atacantes de sombrero negro</name>
+    <definition>Personas u organizaciones que aprovechan las vulnerabilidades para obtener ganancias personales, financieras o políticas ilegales.</definition>
+  </concept>
+      <concept>
+    <name>Atacantes organizados</name>
+    <definition>Organizaciones de delincuentes informáticos, hacktivistas, terroristas y comunidades patrocinadas por el estado.</definition>
+  </concept>
+      <concept>
+    <name>Guerra cibernética</name>
+    <definition>Un conflicto basado en Internet que involucra la penetración de las redes y los sistemas informáticos de otras naciones.</definition>
+  </concept>
+      <concept>
+    <name>Stuxnet</name>
+    <definition>Un programa de malware diseñado para dañar la planta de enriquecimiento nuclear de Irán, un programa que es un ejemplo de ataque patrocinado por el estado.</definition>
+  </concept>
+      <concept>
+    <name>Asociación Multilateral Internacional contra las Amenazas Cibernéticas (IMPACT)</name>
+    <definition>Una asociación global de gobiernos mundiales, industrias y academias dedicada a mejorar las funcionalidades globales para luchar contra las amenazas cibernéticas.</definition>
+  </concept>
+        <concept>
+    <name>Ética</name>
+    <definition>Códigos de comportamiento que están a veces, pero no siempre, regulados por las leyes.</definition>
+  </concept>
+</concepts>
