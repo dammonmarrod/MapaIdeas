@@ -1,19 +1,19 @@
 <concepts>
   <concept>
-    <name>cybersecurity</name>
-    <definition></definition>
+    <name>Cybersecurity</name>
+    <definition>Computer security, cybersecurity or information technology security (IT security) is the protection of computer systems and networks from information disclosure, theft of or damage to their hardware, software, or electronic data, as well as from the disruption or misdirection of the services they provide</definition>
   </concept>
   <concept>
-    <name>Cyber Attacker</name>
-    <definition></definition>
+    <name>Cyberattack</name>
+    <definition>In computers and computer networks, an attack is any attempt to expose, alter, disable, destroy, steal or gain information through unauthorized access to or make unauthorized use of an asset. A cyberattack is any offensive maneuver that targets computer information systems, infrastructures, computer networks, or personal computer devices. </definition>
   </concept>
   <concept>
     <name>Cyberwarfare</name>
-    <definition></definition>
+    <definition>Cyberwarfare is the use of digital attacks to attack a nation, causing comparable harm to actual warfare and/or disrupting the vital computer systems.[1] There is significant debate among experts regarding the definition of cyberwarfare, and even if such a thing exists.[2] One view is that the term "cyberwarfare" is a misnomer, since no offensive cyber actions to date could be described as "war". An alternative view is that "cyberwarfare" is a suitable label for cyber attacks which cause physical damage to people and objects in the real world.</definition>
   </concept>
   <concept>
     <name>Security Vulnerability</name>
-    <definition></definition>
+    <definition>In computer security, a vulnerability is a weakness which can be exploited by a threat actor, such as an attacker, to cross privilege boundaries (i.e. perform unauthorized actions) within a computer system. To exploit a vulnerability, an attacker must have at least one applicable tool or technique that can connect to a system weakness. In this frame, vulnerabilities are also known as the attack surface.</definition>
   </concept>
   <concept>
     <name>Malware</name>
