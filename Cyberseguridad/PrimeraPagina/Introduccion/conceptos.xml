@@ -107,4 +107,11 @@
     <name>IPS</name>
     <definition></definition>
   </concept>
+ 
+  <concept>
+    <name>NDA, Non-Disclosure Agreement</name>
+    <definition></definition>
+  </concept>
+  
+  
 </concepts>
