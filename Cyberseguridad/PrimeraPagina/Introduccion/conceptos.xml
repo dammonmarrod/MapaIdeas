@@ -1,0 +1,110 @@
+<concepts>
+  <concept>
+    <name>cybersecurity</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Cyber Attacker</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Cyberwarfare</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Security Vulnerability</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Malware</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Infiltration</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>DoS</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>DDos</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>SEO</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Blended Attack</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Impact Reduction</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Protecting Data</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Data</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Data Maintenance</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Strong Authentication</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Firewall</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Security Appliances</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Botnet</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Kill Chain</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Behavior-Based Security</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>NetFlow</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Cyberattacks</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>CSIRT</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Security Playbook</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>Prvention and Detection</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>IDS</name>
+    <definition></definition>
+  </concept>
+  <concept>
+    <name>IPS</name>
+    <definition></definition>
+  </concept>
+</concepts>
