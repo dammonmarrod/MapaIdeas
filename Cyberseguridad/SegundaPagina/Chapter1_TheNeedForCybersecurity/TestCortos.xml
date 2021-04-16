@@ -1,3 +1,55 @@
 <testCortos>
-  
+  <titulo>Introduction to Cybersecurity</titulo>
+  <test>
+    <pregunta>
+      <enunciado>Un empleado manifiesta una falla de diseño en un producto nuevo al gerente del departamento.</enunciado>
+      <respuestas>
+        <<respuesta>Poco ético</respuesta>
+        <correcta>false</correcta>
+        <respuesta>Ético</respuesta>
+        <correcta>true</correcta>
+        <solucion>El empleado y el gerente están dentro de la misma empresa y son parte del mismo departamento, por lo que el comportamiento sería ético.</solucion>
+      </respuestas>
+    </pregunta>
+    <pregunta>
+      <enunciado>Despiden a un empleado después de quince años en la misma empresa. Otra empresa contrata al empleado en el plazo de una semana. En la nueva empresa, el empleado comparte documentos e ideas para productos que propuso en la empresa original.</enunciado>
+      <respuestas>
+        <respuesta>Poco Ético</respuesta>
+        <correcta>true</correcta>
+         <respuesta>Ético</respuesta>
+        <correcta>false</correcta>
+        <solucion>Aunque un empleado sea despedido, probablemente firmó un acuerdo de no divulgación (NDA, Non-Disclosure Agreement) con la empresa original. Cualquier trabajo o ideas desarrollados en la empresa original, independientemente de quién propuso la idea, sigue siendo propiedad de la empresa original. Según el nivel de gravedad de la violación, esto podría conllevar una acción legal.</solucion>
+      </respuestas>
+    </pregunta>
+    <pregunta>
+      <enunciado>Un empleado está en un restaurante con amigos y describe un emocionante videojuego nuevo que está en desarrollo en la empresa donde trabaja. ¿Es el comportamiento del empleado ético o poco ético?</enunciado>
+      <respuestas>
+        <respuesta>Poco ético</respuesta>
+        <correcta>true</correcta>
+        <respuesta>Ético</respuesta>
+        <correcta>false</correcta>
+        <solucion>No es ético compartir una idea confidencial sobre un producto antes de que se publique. Describir el juego a un grupo de amigos fuera de la empresa podría conllevar la propagación de la idea y poner en peligro la oferta del producto nuevo.</solucion>
+      </respuestas>
+    </pregunta>
+    <pregunta>
+      <enunciado>Alicia, empleada de la empresa, perdió su credencial de identificación corporativa. Tiene prisa por asistir a una reunión y no tiene tiempo de ir a Recursos Humanos para obtener una credencial temporal. Usted le presta su credencial de identificación hasta que obtenga un reemplazo.</enunciado>
+      <respuestas>
+        <respuesta>Etico</respuesta>
+        <correcta>false</correcta>
+         <respuesta>Poco Etico</respuesta>
+        <correcta>true</correcta>
+        <solucion>Los empleados nunca deben dar sus credenciales a otro empleado, independientemente de la situación o la familiaridad con el otro empleado. Una vez que usted pierde de vista sus credenciales, no puede saber qué uso se les puede estar dando</solucion>
+      </respuestas>
+    </pregunta>
+    <pregunta>
+      <enunciado>En una reunión con el Departamento de Marketing, un representante de TI discute las funciones de un producto nuevo que se lanzará el próximo año.</enunciado>
+      <respuestas>
+        <respuesta>Poco ético</respuesta>
+        <correcta>false</correcta>
+         <respuesta>Ético</respuesta>
+        <correcta>true</correcta>
+        <solucion>Distribuir información del producto nuevo al Departamento de Marketing de la misma empresa es un comportamiento ético. Les otorga a los miembros un plazo amplio para comenzar a desarrollar un plan de marketing para el producto nuevo.</solucion>
+      </respuestas>
+    </pregunta>
+  </test>
 </testCortos>
